@@ -20,12 +20,20 @@ The Ribbon Finance contract will support all vaults:
 
 ## Developing locally
 
+### Installation 
+
+1. Install hardhat (make sure you have >= Node 12.x running.)
+- `npm install --save-dev hardhat`
+
+2. Install Rust dependencies ([foundry](https://github.com/gakonst/foundry)) by running `cargo install`
+
+### Setup
 1. Spin up a local Ethereum node by doing `npx hardhat node`.
-2. 
+2. Then, run `foundry-cli create src/*.sol` to deploy the contracts to the local node.
 
 ## Testing 
 
-tbd
+1. `foundry-cli test` will run the tests on the local node.
 
 ## Deploying
 
