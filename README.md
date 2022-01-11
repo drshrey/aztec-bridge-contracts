@@ -6,12 +6,17 @@ This repository will soon contain Contract definitions for the following Aztec b
 
 The Ribbon Finance contract will support all vaults:
 
+- [ ] T-USDC-P-ETH (in progress)
 - [ ] T-AAVE-C
 - [ ] T-STETH-C 
 - [ ] T-YVUSDC-P-ETH
 - [ ] T-ETH-C
 - [ ] T-WBTC-C 
-- [ ] T-USDC-P-ETH
+
+## Wikis
+
+1. [Trello board](https://trello.com/b/e2Ea7O8r/aztec-bridge-contracts)
+2. [Timeline](https://docs.google.com/spreadsheets/d/1ozAdOdnwEVIBtU6AvkBCu58BDhdkSHD2OdxCBado0ec/edit?usp=sharing)
 
 ## Developing locally
 
