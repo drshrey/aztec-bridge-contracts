@@ -2,7 +2,7 @@
 
 This repository will soon contain Contract definitions for the following Aztec bridge contracts:
 
-1. Ribbon Finance
+1. [Ribbon Finance](https://app.ribbon.finance/)
 
 The Ribbon Finance contract will support all vaults:
 
