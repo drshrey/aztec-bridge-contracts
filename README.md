@@ -1,15 +1,26 @@
-# Basic Sample Hardhat Project
+# Aztec Bridge Contracts
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This repository will soon contain Contract definitions for the following Aztec bridge contracts:
 
-Try running some of the following tasks:
+1. Ribbon Finance
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+The Ribbon Finance contract will support all vaults:
+
+- [] T-AAVE-C
+- [] T-STETH-C 
+- [] T-YVUSDC-P-ETH
+- [] T-ETH-C
+- [] T-WBTC-C 
+- [] T-USDC-P-ETH
+
+## Developing locally
+
+tbd
+
+## Testing 
+
+tbd
+
+## Deploying
+
+tbd

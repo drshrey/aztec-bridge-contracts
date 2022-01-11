@@ -26,10 +26,14 @@ contract RibbonFinanceBridge {
       isAsync = false;
 
       // T-USDC-P-ETH
-      if (
-        inputAssetA.assetType == Types.AztecAssetType.ERC20 &&
-        outputAssetA.assetType == 
-      )
+      /*
+      pseudocode:
+      - check if inputAssetA is USDC
+      - check if outputAssetA is virtual ribbon finance deposit note
+        representing a vault deposit
+      - if conditions are met, do a deposit into the T-USDC-P-ETH vault
+        of inputValue * inputAssetA
+      */
     }
 
   function canFinalise(uint256 interactionNonce) external view returns (bool);
