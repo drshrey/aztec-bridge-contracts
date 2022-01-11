@@ -6,16 +6,17 @@ This repository will soon contain Contract definitions for the following Aztec b
 
 The Ribbon Finance contract will support all vaults:
 
-- [] T-AAVE-C
-- [] T-STETH-C 
-- [] T-YVUSDC-P-ETH
-- [] T-ETH-C
-- [] T-WBTC-C 
-- [] T-USDC-P-ETH
+- [ ] T-AAVE-C
+- [ ] T-STETH-C 
+- [ ] T-YVUSDC-P-ETH
+- [ ] T-ETH-C
+- [ ] T-WBTC-C 
+- [ ] T-USDC-P-ETH
 
 ## Developing locally
 
-tbd
+1. Spin up a local Ethereum node by doing `npx hardhat node`.
+2. 
 
 ## Testing 
 
