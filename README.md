@@ -13,7 +13,7 @@ The Ribbon Finance contract will support all vaults:
 - [ ] T-ETH-C
 - [ ] T-WBTC-C 
 
-## Wikis
+## Project Management
 
 1. [Trello board](https://trello.com/b/e2Ea7O8r/aztec-bridge-contracts)
 2. [Timeline](https://docs.google.com/spreadsheets/d/1ozAdOdnwEVIBtU6AvkBCu58BDhdkSHD2OdxCBado0ec/edit?usp=sharing)
